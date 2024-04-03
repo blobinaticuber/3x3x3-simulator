@@ -1,0 +1,3 @@
+- Download [Processing](https://processing.org/download)
+- Open these files in processing
+- Run the program
